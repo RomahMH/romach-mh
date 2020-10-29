@@ -26,6 +26,7 @@
     "@ngrx/entity": "8.2.0",
     "@ngrx/store": "8.2.0",
     "@turf/turf": "5.1.6",
+    "romach-icons": "./romach-icons",
     "@types/geojson": "7946.0.7",
     "angular-cesium": "0.0.66",
     "angular-resize-event": "1.0.0",

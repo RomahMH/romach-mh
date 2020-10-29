@@ -1,1 +1,0 @@
-xcopy romach-icons node_modules\romach-icons\ /E/H/Q
