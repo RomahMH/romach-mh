@@ -5,4 +5,4 @@
 2. run `npm install`
 3. Make sure `romach-icons` folder is inside the `node_modules` folder (**after installation**)
 4. **7zip** (not rar) the `node_modules` folder and the `package.json` file
-5. White the file
+5. White the 7Zip file
