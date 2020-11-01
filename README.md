@@ -5,5 +5,7 @@
 2. run `npm install`
 3. Copy `romach-icons` folder inside the `node_modules` folder (**after installation**)
 4. Add `"romach-icons": "1.0.0"` to `package.json` file (make sure it is valid)
-4. **7zip** (not rar) the `node_modules` folder and the `package.json` file
-5. White the 7Zip file
+5. **7zip** (not rar) the `node_modules` folder and the `package.json` file
+6. Remove the `"romach-icons"` line from `package.json` and commit
+7. Push the `package.json` file to this repository
+8. White the 7Zip file
